@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_3c3d2fa7e7b64c1f024267e2ec074e371ca25870.jar" />
+    </item>
+    <item
+        jar="/Users/mlmartinez85/Developer/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_118183a00e8c00457368e85b8854216f0c20f218.jar" />
+    </item>
+    <item
+        jar="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_88f7b6ae9b66c0666d0372bff590492b4cf03bdb.jar" />
+    </item>
+    <item
+        jar="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_9d35d3d12a5d4dbdf65ade9a3c87ab5e27d31b6c.jar" />
+    </item>
+    <item
+        jar="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_e1e5f41f339b500eb00a4abbaafac4bda7e71751.jar" />
+    </item>
+    <item
+        jar="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mlmartinez85/Developer/Demo Code/DroidFM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b469ca976a1d4c3e44d5b1431b87eb59180f8fe0.jar" />
+    </item>
+
+</items>
