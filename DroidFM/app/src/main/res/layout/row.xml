@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="10dip">
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dip"
+        android:layout_gravity="center"
+        android:contentDescription="TODO"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/photo"
+        android:gravity="center_vertical"
+        android:text="Example application"
+        android:textSize="17sp"
+        android:paddingLeft="6dip"
+        android:paddingBottom="3dip"
+        android:paddingTop="15dip"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/photo"
+        android:layout_below="@id/name"
+        android:singleLine="true"
+        android:text="Description"
+        android:textSize="14sp"
+        android:paddingLeft="6dip"/>
+</RelativeLayout>
