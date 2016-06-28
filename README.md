@@ -17,7 +17,7 @@ password: **password**
 4. Restart Apache Server
 
 5. Update the Mobile projects with the proper credentials and host IP address of your FileMakerServer
-  * If Swift, update the variable found in 'Variables.swift'
+  * If Swift, update the variables found in 'Variables.swift'
   * If Android, update the variables found in 'DroidFMListView.java' 
 
 # SwiftFM
