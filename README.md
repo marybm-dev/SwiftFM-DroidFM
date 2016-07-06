@@ -1,7 +1,17 @@
-# SwiftFM-DroidFM
+SwiftFM-DroidFM
+===============
+
 Demonstration of Native Mobile apps built with FileMaker data
 
-# Installation (Assuming OS X)
+Description
+-----------
+
+This series of projects demonstrates how to leverage the FileMaker Custom Web Publishing XML API to treat your solution as a RESTful service.
+
+For more details, visit [the blog](https://blog.beezwax.net/2016/07/06/building-native-mobile-apps-with-filemaker-data/) I wrote on this technique.
+
+Installation (Assuming OS X)
+----------------------------
 1. To get started, host the SwiftFM.fmp12 database to an instance of FileMakerServer12 (or 13-15)
 
    *The file's credentials are*:
@@ -20,8 +30,10 @@ password: **password**
   * If Swift, update the variables found in 'Variables.swift'
   * If Android, update the variables found in 'DroidFMListView.java' 
 
-# SwiftFM
+SwiftFM
+-------
 ![Video Walkthrough](SwiftFM.gif)
 
-# DroidFM
+DroidFM
+---------
 ![Video Walkthrough](DroidFM.gif)
