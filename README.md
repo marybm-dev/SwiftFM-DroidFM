@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/mlmc03/SwiftFM-DroidFM/master/project-logos.png" width="624" height="321"/></div>
 SwiftFM-DroidFM
 ===============
 
